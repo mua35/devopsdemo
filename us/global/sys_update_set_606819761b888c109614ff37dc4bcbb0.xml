@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-09-26 06:28:41">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="DevopsDemo">2bf795fa1b488c109614ff37dc4bcbbb</application>
+<application_name>DevopsDemo</application_name>
+<application_scope>global</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>DevopsDemo – 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>606819761b888c109614ff37dc4bcbb0</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-26 06:28:40</sys_created_on>
+<sys_id>23881d761b888c109614ff37dc4bcb7a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-26 06:28:40</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsDemo">2bf795fa1b488c109614ff37dc4bcbbb</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_f3f795761b888c109614ff37dc4bcb7b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>devopsdemo_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-26 06:26:13</sys_created_on><sys_id>f3f795761b888c109614ff37dc4bcb7b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>devopsdemo_user</sys_name><sys_package display_value="DevopsDemo" source="2bf795fa1b488c109614ff37dc4bcbbb">2bf795fa1b488c109614ff37dc4bcbbb</sys_package><sys_policy/><sys_scope display_value="DevopsDemo">2bf795fa1b488c109614ff37dc4bcbbb</sys_scope><sys_update_name>sys_user_role_f3f795761b888c109614ff37dc4bcb7b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-26 06:26:13</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1236386249</payload_hash>
+<remote_update_set display_value="DevopsDemo – 1.0.0">23881d761b888c109614ff37dc4bcb7a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-26 06:28:40</sys_created_on>
+<sys_id>23881d761b888c109614ff37dc4bcb7b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d6c412fa30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-26 06:28:40</sys_updated_on>
+<table/>
+<target_name>devopsdemo_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>a86819769c888c1029a8d253d32090b6</update_guid>
+<update_guid_history>a86819769c888c1029a8d253d32090b6:1236386249,73f7d576ce888c10156e8b49e06824f3:-2110766935</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsDemo">2bf795fa1b488c109614ff37dc4bcbbb</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_3a1899761b888c109614ff37dc4bcb5c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;DevopsDemo&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.log("Hello Test");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-09-26 06:27:15&lt;/sys_created_on&gt;&lt;sys_id&gt;3a1899761b888c109614ff37dc4bcb5c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;DevopsDemo&lt;/sys_name&gt;&lt;sys_package display_value="DevopsDemo" source="2bf795fa1b488c109614ff37dc4bcbbb"&gt;2bf795fa1b488c109614ff37dc4bcbbb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="DevopsDemo"&gt;2bf795fa1b488c109614ff37dc4bcbbb&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_3a1899761b888c109614ff37dc4bcb5c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-09-26 06:27:15&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-882977568</payload_hash>
+<remote_update_set display_value="DevopsDemo – 1.0.0">23881d761b888c109614ff37dc4bcb7a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-26 06:28:40</sys_created_on>
+<sys_id>6f881d761b888c109614ff37dc4bcb7a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d6c412f860000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-26 06:28:40</sys_updated_on>
+<table/>
+<target_name>DevopsDemo</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>6c681976ba888c10ac3300d84da9a9b3</update_guid>
+<update_guid_history>6c681976ba888c10ac3300d84da9a9b3:-882977568,8338d176ec888c10f7e12521f3c87cd9:-882977568</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsDemo">2bf795fa1b488c109614ff37dc4bcbbb</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_abf795761b888c109614ff37dc4bcb78</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>DevopsDemo</name><order/><roles>devopsdemo_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-26 06:26:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>abf795761b888c109614ff37dc4bcb78</sys_id><sys_mod_count>1</sys_mod_count><sys_name>DevopsDemo</sys_name><sys_overrides/><sys_package display_value="DevopsDemo" source="2bf795fa1b488c109614ff37dc4bcbbb">2bf795fa1b488c109614ff37dc4bcbbb</sys_package><sys_policy/><sys_scope display_value="DevopsDemo">2bf795fa1b488c109614ff37dc4bcbbb</sys_scope><sys_update_name>sys_app_application_abf795761b888c109614ff37dc4bcb78</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-26 06:26:13</sys_updated_on><title>DevopsDemo</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1893876244</payload_hash>
+<remote_update_set display_value="DevopsDemo – 1.0.0">23881d761b888c109614ff37dc4bcb7a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-26 06:28:40</sys_created_on>
+<sys_id>ab881d761b888c109614ff37dc4bcb7a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d6c412f950000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-26 06:28:40</sys_updated_on>
+<table/>
+<target_name>DevopsDemo</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>e0681976b2888c1057f3da4ff74aa5b5</update_guid>
+<update_guid_history>e0681976b2888c1057f3da4ff74aa5b5:-1893876244,33f7d5766b888c10d3b8f4935d54a9fa:-1893876244,fff795764f888c1092a0fcdd27c9fd79:-1604015973</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="DevopsDemo">2bf795fa1b488c109614ff37dc4bcbbb</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_2bf795fa1b488c109614ff37dc4bcbbb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="DevopsDemo">abf795761b888c109614ff37dc4bcb78</menu><name>DevopsDemo</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>2bf795fa1b488c109614ff37dc4bcbbb</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-26 06:26:13</sys_created_on><sys_id>2bf795fa1b488c109614ff37dc4bcbbb</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-26 06:26:13</sys_updated_on><template/><trackable>true</trackable><user_role display_value="devopsdemo_user" name="devopsdemo_user">f3f795761b888c109614ff37dc4bcb7b</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-571651111</payload_hash>
+<remote_update_set display_value="DevopsDemo – 1.0.0">23881d761b888c109614ff37dc4bcb7a</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-26 06:28:40</sys_created_on>
+<sys_id>e3881d761b888c109614ff37dc4bcb7a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16d6c412f740000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-26 06:28:40</sys_updated_on>
+<table/>
+<target_name>DevopsDemo</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>a468197656888c101825849b38001eb2</update_guid>
+<update_guid_history>a468197656888c101825849b38001eb2:-571651111,fbf7d5762a888c105d5b78f0adf414f6:-571651111</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
