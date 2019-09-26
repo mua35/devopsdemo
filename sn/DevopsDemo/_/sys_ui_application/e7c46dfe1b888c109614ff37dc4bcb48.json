@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "hint": null,
+  "name": "DevopsDemo",
+  "order": null,
+  "roles": "devopsdemo_user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-26 07:22:10",
+  "sys_id": "e7c46dfe1b888c109614ff37dc4bcb48",
+  "sys_mod_count": 0,
+  "sys_name": "DevopsDemo",
+  "sys_package": "2bf795fa1b488c109614ff37dc4bcbbb",
+  "sys_policy": null,
+  "sys_scope": "2bf795fa1b488c109614ff37dc4bcbbb",
+  "sys_update_name": "sys_ui_application_e7c46dfe1b888c109614ff37dc4bcb48",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-26 07:22:10"
+}
