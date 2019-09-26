@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": null,
+  "flush_cache": false,
+  "name": "DevopsDemo",
+  "record_for_rollback": false,
+  "run_once": true,
+  "script": {
+    "____see": "sn\\DevopsDemo\\Fix Script\\active_true\\DevopsDemo.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-26 06:27:15",
+  "sys_id": "3a1899761b888c109614ff37dc4bcb5c",
+  "sys_mod_count": 0,
+  "sys_name": "DevopsDemo",
+  "sys_package": "2bf795fa1b488c109614ff37dc4bcbbb",
+  "sys_policy": null,
+  "sys_scope": "2bf795fa1b488c109614ff37dc4bcbbb",
+  "sys_update_name": "sys_script_fix_3a1899761b888c109614ff37dc4bcb5c",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-26 06:27:15",
+  "unloadable": false
+}
